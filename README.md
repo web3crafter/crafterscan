@@ -4,7 +4,7 @@ CrafterScan is a block explorer for the ethereum blockchain created as part of t
 The Design is inspired by etherscan.
 It allows users to explore and inspect the blockchain data, including blocks, transactions, and addresses, providing a user-friendly interface for interacting with the network.
 
-![CrafterScan Screenshot](screenshot.png)
+![CrafterScan Screenshot](/public/screenshot.png)
 
 ## Features
 
